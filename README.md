@@ -6,6 +6,10 @@ You can capture and put back 433 mHz, Infra Red, RFID and NFC signals. <br>
 I used a Arduino Leonardo Micro for microprocessor because he can 
 emulate au mouse and a keybord, and he is very small.
 
+For the shematic and the footprint, I used Kicad software.
+because it's a free and open source software,
+he is very easy to use !
+
 ### Images
 
 ![shematic](/Pics/Shematic.png)
