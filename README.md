@@ -17,7 +17,7 @@ emulate au mouse and a keybord, and he is very small.
 Download the git project <br> 
 or use
 ```sh
-git clone https://github.com/HaneiNeko/Flipper_zero_like.git
+git clone https://github.com/HaneiNeko/Flipper-Watch.git
 ```
 
 ## How to use the project
