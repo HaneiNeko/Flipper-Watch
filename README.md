@@ -1,5 +1,7 @@
 # Flipper Watch
 
+WOKWI Simulation Project : https://wokwi.com/projects/414080295914760193
+
 ## Description
 This project is a Flipper Zero like ! <br>
 You can capture and put back 433 mHz, Infra Red, RFID and NFC signals. <br>
