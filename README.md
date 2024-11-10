@@ -1,3 +1,7 @@
+[![arduino](https://img.shields.io/badge/microcontroller-Arduino-00878F.svg?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
+[![language](https://img.shields.io/badge/language-C++-00599C.svg?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![license](https://img.shields.io/badge/License-CC0-808080.svg?style=for-the-badge&logo=unlicense)](https://creativecommons.org/)
+
 # Flipper Watch
 
 WOKWI Simulation Project : https://wokwi.com/projects/414080295914760193
@@ -29,5 +33,3 @@ git clone https://github.com/HaneiNeko/Flipper-Watch.git
 ## How to use the project
 Use the electronic shema for create the PCB <br>
 Next, upload the code in the .ino file !
-
-## License
